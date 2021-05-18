@@ -1,3 +1,6 @@
+//Multiply-Java-Game
+//CreateBy Ruangyot Nanchiang
+
 package Multiply;
 
 import java.util.Scanner;
@@ -5,7 +8,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        System.out.println("CreateBy Ruangyot Nanchiang\n");
         while(true) {
             Problem problem = new Problem();
             problem.getProblem();
